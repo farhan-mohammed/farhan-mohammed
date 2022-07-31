@@ -1,4 +1,3 @@
-### Hey there    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20" />
 
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 ![version :31.Jul.2022](https://img.shields.io/badge/version-31.Jul.2022-informational)
@@ -6,20 +5,32 @@
 <a href="https://www.linkedin.com/in/farhanhmd/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" height=20></a>
 
 
+### Hey, I am Farhan    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20" />
+- I am an upcoming graduate (May 2023) at Toronto Metropoliation University, currently studying Math & Computer Science. 
+- I love building web tools using React. 
+- In the past, I have interned at various-sized companies as a Software Engineer where in one of them I have worked with Python and AWS to maintain the team's microservices and the other with React(Typescript) to create a data-rich dashboards with beauitful graphs. 
+
+
+### 🌱 My hobbies:
+- folding paper with great accuracy
+- growing unqiue varities of common household vegetables
+- taking videos thinking I am a content creator
+
+
+
+<details>
+ <summary> GitHub Summary </summary>
+ 
  <img src="https://github-readme-stats.vercel.app/api?username=farhan-mohammed&show_icons=true&theme=city_lights&count_private=true&hide_border=1&custom_title=Farhan's+GitHub+Summary&line_height=24&hide=contribs"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhan-mohammed&layout=compact&theme=city_lights&langs_count=6&hide_border=1" />
 
 
 
 
-- 🔭 SUmmary
-- 🌱 What do I do? What have I done in the past?
-- 👯 Hobbies
-
-
-
+ </details>
 
 <details>
-<summaryParrot Party</summary>
+<summary>Parrot Party</summary>
+ <div>
 <img src="https://cultofthepartyparrot.com//parrots/hd/parrot.gif" width="30" height="30"/>
 <img src="https://cultofthepartyparrot.com//parrots/hd/opensourceparrot.gif" width="30" height="30"/>
 <img src="https://cultofthepartyparrot.com//parrots/hd/middleparrot.gif" width="30" height="30"/>
@@ -249,7 +260,7 @@
 <img src="https://cultofthepartyparrot.com//parrots/hd/reactparrot.gif" width="30" height="30"/>
 <img src="https://cultofthepartyparrot.com//parrots/standupparrot.gif" width="30" height="30"/>
 <img src="https://cultofthepartyparrot.com//parrots/hd/mergetrainparrot.gif" width="30" height="30"/>
-<img src="https://cultofthepartyparrot.com//parrots/hd/mergeimmediatelyparrot.gif" width="30" height="30"/>
+<img src="https://cultofthepartyparrot.com//parrots/hd/mergeimmediatelyparrot.gif" width="30" height="30"/></div>
 </details>
 
 
