@@ -1,21 +1,11 @@
 
 ![build: passing](https://img.shields.io/badge/build-passing-success)
-![version :31.Jul.2022](https://img.shields.io/badge/version-31.Jul.2022-informational)
+![version :31.Jul.2022](https://img.shields.io/badge/version-25.Oct.2023-informational)
 ![views](https://visitor-badge.glitch.me/badge?page_id=farhan-mohammed.profile)
 <a href="https://www.linkedin.com/in/farhanhmd/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" height=20></a>
 
 
-### Hey, I am Farhan    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20" />
-- I am an upcoming graduate (May 2023) at Toronto Metropoliation University, currently studying Math & Computer Science. 
-- I love building web tools using React. 
-- In the past, I have interned at various-sized companies as a Software Engineer where in one of them I have worked with Python and AWS to maintain the team's microservices and the other with React(Typescript) to create a data-rich dashboards with beauitful graphs. 
-
-
-### 🌱 My hobbies:
-- folding paper with great accuracy
-- growing unqiue varities of common household vegetables
-- taking videos thinking I am a content creator
-
+<a href="https://blog.farhan.site/">https://blog.farhan.site/</a>
 
 
 <details>
